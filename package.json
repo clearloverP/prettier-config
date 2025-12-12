@@ -11,7 +11,10 @@
         "index.js",
         "index.json"
     ],
-    "repository": "git@github.com:clearloverP/prettier-config.git",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:clearloverP/prettier-config.git"
+    },
     "author": "peibb",
     "license": "MIT"
 }
