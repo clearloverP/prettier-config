@@ -1,0 +1,17 @@
+{
+    "name": "@peibb/prettier-config",
+    "version": "1.0.0",
+    "description": "My personal Prettier config",
+    "main": "index.js",
+    "exports": {
+        ".": "./index.js",
+        "./package.json": "./package.json"
+    },
+    "files": [
+        "index.js",
+        "index.json"
+    ],
+    "repository": "git@github.com:clearloverP/prettier-config.git",
+    "author": "peibb",
+    "license": "MIT"
+}
