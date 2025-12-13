@@ -1,6 +1,6 @@
 {
     "name": "@peibb/prettier-config",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "My personal Prettier config",
     "main": "index.js",
     "exports": {
@@ -16,5 +16,8 @@
         "url": "git@github.com:clearloverP/prettier-config.git"
     },
     "author": "peibb",
-    "license": "MIT"
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    }
 }
